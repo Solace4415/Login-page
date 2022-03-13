@@ -123,6 +123,7 @@ button {
   font-weight: 700;
   font-size: 15px;
   margin-bottom: 30px;
+  cursor: pointer;
   background-image: linear-gradient(
     to right,
     rgb(16, 218, 201),
